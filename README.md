@@ -6,7 +6,7 @@ A Discord bot powered by Flollama AI that assists users with coding, science lea
 
 - **Name:** Flollama (a combination of "Flow" and Llama/Ollama)
 - **Creator:** Pratyush Kumar, a young developer from India
-- **Base Model:** Meta's Llama 3.2 language model with Ollama AI infrastructure
+- **Base Model:** Gemini 2.0 Flash Lite with Google AI Studio API
 - **Purpose:** To assist users with coding, science learning, writing, and general knowledge
 - **Goal:** Provide helpful and accurate responses while being transparent about origins and limitations
 
@@ -338,9 +338,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
-- **Pratyush Kumar** - Creator of Flollama
-- **Meta** - Llama 3.2 language model
-- **Ollama** - AI infrastructure
+- **Flollama UnInc.** - Onwer of flollama
+- **Pratyush Kumar** - Former Creator of Flollama and flollama uninc
+- **Google** - Gemini language model
 - **Discord.js** - Discord API wrapper
 
 ## 📞 Support
